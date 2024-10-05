@@ -2,6 +2,9 @@
 
 ### Instructions
 
+> [!Warning]
+> The instruction below are made for Linux.
+
 Run the command below will generate the folder target/should_remove_1.war
 
 ```shell
